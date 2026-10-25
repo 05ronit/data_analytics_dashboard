@@ -1,0 +1,122 @@
+Order_ID,Date,Customer_ID,Product,Category,Region,Quantity,Unit_Price
+ORD0001,2025-10-10,CUST016,Laptop,Electronics,North,5.0,68729.42
+ORD0002,2025-03-15,CUST026,Notebook,Stationery,West,1.0,86.09
+ORD0003,2025-10-14,CUST005,Pen Pack,Stationery,East,4.0,119.05
+ORD0004,2025-03-08,CUST015,Keyboard,Electronics,West,7.0,1534.53
+ORD0005,2025-06-11,CUST008,Desk,Furniture,West,4.0,12104.8
+ORD0006,2025-11-10,CUST006,Laptop,Electronics,,6.0,66369.31
+ORD0007,2025-05-10,CUST034,Pen Pack,Stationery,East,1.0,127.55
+ORD0008,2025-10-05,CUST018,Pen Pack,Stationery,North,2.0,119.36
+ORD0009,2025-02-26,CUST024,Desk,Furniture,South,6.0,12469.94
+ORD0010,2025-05-30,CUST003,Water Bottle,Accessories,South,3.0,489.64
+ORD0011,2025-03-11,CUST005,Pen Pack,Stationery,South,4.0,119.53
+ORD0012,2025-07-26,CUST006,Mouse,Electronics,West,5.0,791.96
+ORD0013,2025-09-13,CUST011,Notebook,Stationery,South,1.0,84.25
+ORD0014,2025-11-04,CUST009,Backpack,Accessories,East,3.0,1739.04
+ORD0015,2025-02-21,CUST007,Notebook,Stationery,West,6.0,73.69
+ORD0016,2025-10-12,CUST010,Pen Pack,Stationery,West,5.0,123.94
+ORD0017,2025-06-17,CUST020,Desk,Furniture,North,4.0,11308.41
+ORD0018,2025-06-10,CUST030,Headphones,Electronics,East,5.0,2488.44
+ORD0019,2025-10-07,CUST023,Laptop,Electronics,North,5.0,
+ORD0020,2025-10-18,CUST013,Desk,Furniture,South,3.0,11099.17
+ORD0021,2025-03-20,CUST015,Water Bottle,Accessories,North,2.0,528.27
+ORD0022,2025-10-27,CUST033,Mouse,Electronics,South,1.0,772.02
+ORD0023,2025-08-30,CUST020,Office Chair,Furniture,West,1.0,8886.1
+ORD0024,2025-05-30,CUST012,Notebook,Stationery,North,3.0,84.02
+ORD0025,2025-01-09,CUST004,Keyboard,Electronics,East,1.0,1553.37
+ORD0026,2025-09-19,CUST033,Office Chair,Furniture,North,2.0,8501.42
+ORD0027,2025-09-12,CUST016,Office Chair,Furniture,North,4.0,8338.19
+ORD0028,2025-09-07,CUST034,Keyboard,Electronics,North,5.0,1466.84
+ORD0029,2025-02-13,CUST034,Keyboard,Electronics,South,3.0,1598.06
+ORD0030,2025-06-16,CUST010,Notebook,Stationery,West,2.0,86.01
+ORD0031,2025-09-19,CUST016,Mouse,Electronics,North,6.0,770.85
+ORD0032,2025-06-13,CUST025,Laptop,Electronics,North,7.0,64540.07
+ORD0033,2025-04-22,CUST021,Pen Pack,Stationery,South,6.0,113.79
+ORD0034,2025-01-08,CUST024,Backpack,Accessories,South,6.0,1863.21
+ORD0035,2025-08-17,CUST021,Keyboard,Electronics,East,1.0,1535.96
+ORD0036,2025-10-04,CUST007,Laptop,Electronics,South,3.0,60232.79
+ORD0037,2025-05-01,CUST006,Headphones,Electronics,North,5.0,2341.36
+ORD0038,2025-10-17,CUST035,Desk,Furniture,East,,12816.23
+ORD0039,2025-05-07,CUST021,Office Chair,Furniture,North,5.0,7851.01
+ORD0040,2025-06-02,CUST003,Water Bottle,Accessories,North,4.0,522.62
+ORD0041,2025-06-27,CUST018,Mouse,Electronics,North,5.0,856.04
+ORD0042,2025-07-17,CUST034,Desk,Furniture,South,4.0,11552.59
+ORD0043,2025-07-10,CUST016,Desk,Furniture,South,6.0,11081.5
+ORD0044,2025-01-04,CUST011,Backpack,Accessories,East,7.0,1696.39
+ORD0045,2025-02-09,CUST024,Keyboard,Electronics,North,5.0,1447.5
+ORD0046,2025-09-24,CUST012,Notebook,Stationery,North,6.0,83.44
+ORD0047,2025-12-01,CUST009,Notebook,Stationery,North,7.0,74.08
+ORD0048,2025-07-19,CUST017,Desk,Furniture,West,3.0,12633.2
+ORD0049,2025-04-26,CUST034,Water Bottle,Accessories,East,2.0,483.27
+ORD0050,2025-11-27,CUST007,Desk,Furniture,North,2.0,12837.2
+ORD0051,2025-01-17,CUST016,Desk,Furniture,North,3.0,12945.36
+ORD0052,2025-02-03,CUST008,Backpack,Accessories,West,6.0,1912.55
+ORD0053,2025-07-09,CUST012,Headphones,Electronics,,4.0,2608.8
+ORD0054,2025-05-30,CUST026,Notebook,Stationery,East,3.0,74.81
+ORD0055,2025-04-06,CUST033,Keyboard,Electronics,North,1.0,1437.83
+ORD0056,2025-01-25,CUST027,Headphones,Electronics,North,6.0,2361.31
+ORD0057,2025-08-07,CUST031,Keyboard,Electronics,South,6.0,1427.14
+ORD0058,2025-12-31,CUST018,Keyboard,Electronics,East,6.0,1613.24
+ORD0059,2025-02-22,CUST001,Office Chair,Furniture,South,7.0,8132.33
+ORD0060,2025-01-07,CUST011,Headphones,Electronics,East,5.0,2348.73
+ORD0061,2025-09-11,CUST021,Water Bottle,Accessories,West,6.0,475.98
+ORD0062,2025-01-10,CUST029,Backpack,Accessories,North,6.0,1868.83
+ORD0063,2025-02-15,CUST033,Office Chair,Furniture,West,4.0,8360.71
+ORD0064,2025-02-18,CUST011,Keyboard,Electronics,West,4.0,1539.09
+ORD0065,2025-04-15,CUST033,Desk,Furniture,East,7.0,11087.73
+ORD0066,2025-02-24,CUST026,Desk,Furniture,North,5.0,11243.32
+ORD0067,2025-06-02,CUST034,Pen Pack,Stationery,North,1.0,121.84
+ORD0068,2025-09-27,CUST023,Water Bottle,Accessories,West,6.0,497.39
+ORD0069,2025-01-07,CUST004,Backpack,Accessories,South,5.0,1894.88
+ORD0070,2025-06-18,CUST027,Pen Pack,Stationery,East,2.0,120.59
+ORD0071,2025-11-13,CUST022,Water Bottle,Accessories,North,6.0,493.01
+ORD0072,2025-12-05,CUST034,Keyboard,Electronics,West,3.0,1536.46
+ORD0073,2025-06-15,CUST009,Mouse,Electronics,West,4.0,766.29
+ORD0074,2025-11-03,CUST031,Pen Pack,Stationery,North,6.0,112.42
+ORD0075,2025-08-05,CUST006,Office Chair,Furniture,South,3.0,
+ORD0076,2025-12-04,CUST021,Keyboard,Electronics,North,2.0,1601.03
+ORD0077,2025-04-14,CUST006,Headphones,Electronics,East,5.0,2346.2
+ORD0078,2025-09-16,CUST030,Laptop,Electronics,North,1.0,61616.27
+ORD0079,2025-08-04,CUST024,Office Chair,Furniture,West,4.0,8355.34
+ORD0080,2025-12-26,CUST028,Keyboard,Electronics,West,4.0,1590.0
+ORD0081,2025-01-16,CUST007,Desk,Furniture,North,4.0,11494.55
+ORD0082,2025-08-23,CUST010,Mouse,Electronics,North,4.0,789.28
+ORD0083,2025-05-17,CUST019,Laptop,Electronics,North,7.0,60857.39
+ORD0084,2025-02-08,CUST025,Backpack,Accessories,North,1.0,1922.35
+ORD0085,2025-11-04,CUST032,Backpack,Accessories,South,6.0,1938.12
+ORD0086,2025-07-31,CUST022,Backpack,Accessories,West,6.0,1841.04
+ORD0087,2025-02-19,CUST019,Pen Pack,Stationery,West,6.0,120.27
+ORD0088,2025-11-01,CUST025,Backpack,Accessories,East,4.0,1766.91
+ORD0089,2025-04-08,CUST005,Mouse,Electronics,North,1.0,797.17
+ORD0090,2025-08-09,CUST018,Office Chair,Furniture,South,2.0,8319.82
+ORD0091,2025-04-30,CUST014,Pen Pack,Stationery,North,4.0,123.57
+ORD0092,2025-10-17,CUST030,Mouse,Electronics,South,0.0,853.29
+ORD0093,2025-04-30,CUST019,Pen Pack,Stationery,South,4.0,126.69
+ORD0094,2025-03-15,CUST027,Notebook,Stationery,East,6.0,80.42
+ORD0095,2025-04-16,CUST026,Laptop,Electronics,East,2.0,61905.01
+ORD0096,2025-07-03,CUST034,Notebook,Stationery,East,7.0,75.29
+ORD0097,2025-02-04,CUST026,Notebook,Stationery,East,5.0,74.68
+ORD0098,2025-09-22,CUST006,Water Bottle,Accessories,West,1.0,536.71
+ORD0099,2025-08-05,CUST028,Office Chair,Furniture,West,4.0,8901.36
+ORD0100,2025-02-02,CUST002,Water Bottle,Accessories,North,2.0,507.21
+ORD0101,2025-08-13,CUST006,Desk,Furniture,North,2.0,12124.71
+ORD0102,2025-06-23,CUST026,Desk,Furniture,West,4.0,12043.45
+ORD0103,2025-10-19,CUST018,Water Bottle,Accessories,North,4.0,507.97
+ORD0104,2025-11-05,CUST026,Water Bottle,Accessories,North,1.0,-250.0
+ORD0105,2025-08-29,CUST015,Office Chair,Furniture,North,6.0,8873.08
+ORD0106,2025-09-24,CUST029,Notebook,Stationery,West,3.0,85.1
+ORD0107,2025-04-09,CUST013,Notebook,Stationery,South,6.0,77.62
+ORD0108,2025-12-17,CUST020,Headphones,Electronics,South,2.0,2674.45
+ORD0109,2025-05-20,CUST026,Pen Pack,Stationery,West,1.0,121.02
+ORD0110,2025-05-12,CUST005,Water Bottle,Accessories,South,6.0,498.35
+ORD0111,2025-12-27,CUST026,Notebook,Stationery,South,1.0,85.78
+ORD0112,2025-04-09,CUST005,Headphones,Electronics,North,6.0,2554.83
+ORD0113,2025-08-03,CUST025,Office Chair,Furniture,North,1.0,7836.73
+ORD0114,2025-09-21,CUST034,Office Chair,Furniture,South,6.0,8221.69
+ORD0115,2025-06-11,CUST011,Keyboard,Electronics,East,1.0,1600.43
+ORD0116,2025-07-18,CUST002,Pen Pack,Stationery,West,1.0,129.54
+ORD0117,2025-04-14,CUST030,Notebook,Stationery,East,6.0,74.96
+ORD0118,2025-01-09,CUST022,Water Bottle,Accessories,North,5.0,512.01
+ORD0119,2025-11-24,CUST002,Notebook,Stationery,South,7.0,76.68
+ORD0120,2025-11-08,CUST001,Headphones,Electronics,West,6.0,2379.28
+ORD0011,2025-03-11,CUST005,Pen Pack,Stationery,South,4.0,119.53
